@@ -1,0 +1,2 @@
+ #!/bash/bin
+echo $((` echo $PATH | grey -o “:/“ | wc -l ` +l ))
