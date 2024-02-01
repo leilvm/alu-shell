@@ -1,2 +1,2 @@
- #!/bash/bin
+#!/bin/bash
 echo $((` echo $PATH | grey -o “:/“ | wc -l ` +l ))
